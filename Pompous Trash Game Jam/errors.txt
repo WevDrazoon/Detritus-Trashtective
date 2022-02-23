@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/final_battle3.rpy", line 174: expected statement.
+    else:
+        ^
+
+Ren'Py Version: Ren'Py 7.4.0.1167
+Thu Jul 22 02:44:49 2021
